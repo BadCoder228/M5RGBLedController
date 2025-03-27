@@ -21,7 +21,7 @@ take ur motor with red stick and then connect it to M5Hub bottom PORT 1.
 take ur motor with green stick and then connect it to M5Hub bottom PORT 2.
 the same description for blue one, so just connect it to port 3.
 
-after that prepare ur VScode by downloading Platformio and specifical modules there.
+after that prepare ur VScode by downloading Platformio creating project WITH M5 IN COMMON and installing some specifical modules there.
 then u gotta copy MY src folder and replace ur with mine.
 
 finally connect ur M5Hub to ur pc via wire select file called "main.cpp" and then it will be installed to ur M5Hub automatically. 
